@@ -1,13 +1,18 @@
-**Group 8 coding lab**
+# **Group 8 coding lab**
 
 # Members:
 
--Ineza Jules : submitted the archive_logs.sh and the water_consumption.py file
--Alieu O Jobe : submitted the temperature_recorder.py file
--Vanessa Umwari : Wrote and pushed the documentation in the README.md file
--Jean Nepo Munezero : pushed the analyze_logs.sh file
--Gislain Kabanda : pushed the heart_rate_monitor.py
--MBAZOGHE NNA TITIANA CLEMENCE
+-**Ineza Jules** : submitted the archive_logs.sh and the water_consumption.py file
+
+-**Alieu O Jobe** : submitted the temperature_recorder.py file
+
+-**Vanessa Umwari** : Wrote and pushed the documentation in the README.md file
+
+-**Jean Nepo Munezero** : pushed the analyze_logs.sh file
+
+-**Gislain Kabanda** : pushed the heart_rate_monitor.py
+
+-**MBAZOGHE NNA TITIANA CLEMENCE**
 
 # Hospital Data Monitoring & Archival System
 
